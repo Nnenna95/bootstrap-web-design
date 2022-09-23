@@ -1,0 +1,17 @@
+.navbar{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+}
+.navbar-nav{
+    align-items: flex-end;
+}
+@media(min-width:768px){
+    .news-input{
+        width: 50%;
+    }
+}
+/* .containerr ,img{ */
+    height: 50px;
+    width: 50px;
